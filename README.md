@@ -1,3 +1,3 @@
 # Bookbot project
 
-A small project to analyze word count
+A small CLI project to analyze word count in a text file
